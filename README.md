@@ -6,9 +6,6 @@ Download the latest release and follow the "guide.txt" you will find inside the 
 
 # Screenshots here
 ![terminal](https://github.com/SpiritedCranberry229/Fresh-Cozy-i3-Rice/blob/main/Screenshots/terminal.png)
-
-![browser_game] (https://github.com/SpiritedCranberry229/Fresh-Cozy-i3-Rice/blob/main/Screenshots/browser_game.png)
-
-![filemanager] (https://github.com/SpiritedCranberry229/Fresh-Cozy-i3-Rice/blob/main/Screenshots/filemanager.png)
-
-![vesktop_anicli] (https://github.com/SpiritedCranberry229/Fresh-Cozy-i3-Rice/blob/main/Screenshots/vesktop%2Bani-cli.png)
+![browser_game](https://github.com/SpiritedCranberry229/Fresh-Cozy-i3-Rice/blob/main/Screenshots/browser_game.png)
+![filemanager](https://github.com/SpiritedCranberry229/Fresh-Cozy-i3-Rice/blob/main/Screenshots/filemanager.png)
+![vesktop_anicli](https://github.com/SpiritedCranberry229/Fresh-Cozy-i3-Rice/blob/main/Screenshots/vesktop%2Bani-cli.png)
